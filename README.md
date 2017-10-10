@@ -1,4 +1,7 @@
 # PrimitiveSurvival
+
+Made with: VS console application and C++.
+
 A little, primitive survival game I made some time ago.
   
 Instructions:
