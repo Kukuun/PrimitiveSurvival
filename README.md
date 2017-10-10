@@ -10,3 +10,5 @@ Dependencies:
   - (Free)glut.
   - IrrKlang.
   - SOIL.
+
+The amount of time you survived is stored in the _RoundTime.txt file.
